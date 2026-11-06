@@ -1,8 +1,8 @@
 {
-    "version":  "2.1.9",
+    "version":  "2.2.0",
     "release_date":  "2026-11-06",
-    "title":  "Desktop Pet v2.1.9",
-    "changelog":  "Ban nang cap giao dien toan dien va khac phuc triet de loi che khuat",
+    "title":  "Desktop Pet v2.2.0 - Retro Pixel JRPG Chat \u0026 Unified Chat Widget",
+    "changelog":  "Bản nâng cấp lớn giao diện phòng trực tuyến:\n- Giao diện bong bóng hội thoại phong cách Retro Pixel JRPG (Theme 3) với bảng màu Player Sky Blue, Party Mint Green, viền pixel 2px, đuôi pixel bậc thang và huy hiệu danh hiệu.\n- Thanh chat hợp nhất Unified Chat Widget: tích hợp Ctrl+Shift+C và lịch sử chat, mở rộng/thu nhỏ linh hoạt (Mini 46px / Full 380px), đỗ thông minh góc đối diện pet, tự do kéo thả.\n- Căn ngang baseline tuyệt đối cho tất cả pet bạn bè (cùng mặt đất với pet bạn), pet bạn nhỏ hơn 1 size, giãn cách toán học 175px chống va chạm 100%.\n- Thuật toán trần/sàn thông minh không bao giờ che thân pet.",
     "download_url":  "https://github.com/Abcdatt666/MyPet/releases/latest",
     "exe_url":  "https://github.com/Abcdatt666/MyPet/releases/latest/download/pet.exe",
     "mandatory":  false
