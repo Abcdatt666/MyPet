@@ -1,8 +1,9 @@
 {
   "version": "2.1.2",
   "release_date": "2026-11-06",
-  "title": "Bản cập nhật v2.1.0: Đồng bộ Pet Trực Tuyến & Dự báo Thời tiết Siêu Cấp",
-  "changelog": "- Sửa lỗi hiển thị bạn bè trong phòng trực tuyến (E2EE)\n- Khóa đồng bộ chống đứt mạng WebSocket\n- Đồng bộ chat 2 chiều giữa các pet với bong bóng so le\n- Bổ sung bảng Nhật ký Debug mạng thời gian thực (Ctrl+Shift+D)\n- Tự động kiểm tra bản cập nhật mới khi khởi động",
-  "download_url": "https://github.com/kainabc/desktop-pet/releases/latest",
+  "title": "Bản cập nhật v2.1.2: Đồng bộ Pet Trực Tuyến & Cập nhật 1-Click",
+  "changelog": "- Tính năng phòng trực tuyến cùng bạn bè\n- Tự động cập nhật 1-Click không cần cài đặt lại\n- Bảng Debug mạng thời gian thực (Ctrl+Shift+D)",
+  "download_url": "https://github.com/Abcdatt666/MyPet/releases/latest",
+  "exe_url": "https://github.com/Abcdatt666/MyPet/releases/latest/download/pet.exe",
   "mandatory": false
 }
