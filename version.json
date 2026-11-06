@@ -1,8 +1,8 @@
 {
-    "version":  "2.1.5",
+    "version":  "2.1.6",
     "release_date":  "2026-11-06",
-    "title":  "Bản cập nhật v2.1.5: Thu nhỏ chat, Scrollbar RPG \u0026 Chống che Pet",
-    "changelog":  "- Thu nhỏ chat (Minimize / Restore)\n- Scrollbar RPG mun tối sang trọng\n- Kéo thả cửa sổ chat tự do ở mọi điểm tiêu đề\n- Cơ chế Anti-Collision chống che Pet khi đu trần\n- Tự động dọn dẹp Pet khi rời phòng và timeout 70s",
+    "title":  "Desktop Pet v2.1.6 - Chat \u0026 UI Stability",
+    "changelog":  "Fix UI disposed error, chat minimize button, RPG dark scrollbar, and smart pet positioning",
     "download_url":  "https://github.com/Abcdatt666/MyPet/releases/latest",
     "exe_url":  "https://github.com/Abcdatt666/MyPet/releases/latest/download/pet.exe",
     "mandatory":  false
