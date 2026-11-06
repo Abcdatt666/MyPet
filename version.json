@@ -1,8 +1,8 @@
 {
-  "version": "2.1.3",
+  "version": "2.1.4",
   "release_date": "2026-11-06",
-  "title": "Bản cập nhật v2.1.3: Thanh Chat Nhanh & Tách Biệt Phím Tắt",
-  "changelog": "- Thanh Chat Nhanh bám sát Pet (Ctrl+Shift+C hoặc Ctrl+Shift+X)\n- Tách biệt hoàn toàn AI Chat (Ctrl+Shift+Space) và Room Chat\n- Giao diện lịch sử chat tinh gọn, gửi tin nhắn tự đóng khung chat\n- Cải thiện tiêu điểm (Focus) chống mất khung chat trên Windows",
+  "title": "Bản cập nhật v2.1.4: Bi en is a fking fat pig",
+  "changelog": "Update vì tao thích + Bích Ngọc là con chó mập nhất thế giới",
   "download_url": "https://github.com/Abcdatt666/MyPet/releases/latest",
   "exe_url": "https://github.com/Abcdatt666/MyPet/releases/latest/download/pet.exe",
   "mandatory": false
