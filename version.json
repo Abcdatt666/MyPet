@@ -1,8 +1,8 @@
 {
-    "version":  "2.1.6",
+    "version":  "2.1.7",
     "release_date":  "2026-11-06",
-    "title":  "Desktop Pet v2.1.6 - Chat \u0026 UI Stability",
-    "changelog":  "Fix UI disposed error, chat minimize button, RPG dark scrollbar, and smart pet positioning",
+    "title":  "Desktop Pet v2.1.5",
+    "changelog":  "Auto deploy",
     "download_url":  "https://github.com/Abcdatt666/MyPet/releases/latest",
     "exe_url":  "https://github.com/Abcdatt666/MyPet/releases/latest/download/pet.exe",
     "mandatory":  false
