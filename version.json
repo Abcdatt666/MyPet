@@ -1,8 +1,8 @@
 {
-    "version":  "2.2.2",
-    "release_date":  "2026-11-06",
-    "title":  "Desktop Pet v2.2.2 - Mathematical Multi-Client Zero-Collision Spacing",
-    "changelog":  "Khắc phục triệt để va chạm bong bóng khi chat tin nhắn dài nhất giữa 2 máy:\n- Sửa công thức khoảng cách giữa pet chính và Pet 1: Trước đó dùng (slot - 1) khiến Pet 1 bị kéo sát về phía pet chính (chỉ cách 76px). Nay chuẩn hóa thành slot * spacing (cách đều 185px).\n- Giới hạn chiều rộng tối đa của bong bóng maxBoxW = 148px (thay vì 160px), tăng khoảng cách giữa 2 tâm pet lên 185px -\u003e Tạo khoảng hở an toàn tuyệt đối tối thiểu 37px giữa 2 mép bong bóng.\n- Dù cả 2 máy (hoặc cả phòng 5 pet) cùng gõ tin nhắn dài kịch khung cùng lúc thì 2 bong bóng cũng không bao giờ có thể chạm hay đè lên nhau.",
+    "version":  "2.2.3",
+    "release_date":  "2026-11-07",
+    "title":  "Desktop Pet v2.2.3 - Chat History Margin \u0026 Scroll Fix",
+    "changelog":  "Fix top line clipping, right edge text truncation, and mouse wheel scrolling in RoomChatHistoryForm",
     "download_url":  "https://github.com/Abcdatt666/MyPet/releases/latest",
     "exe_url":  "https://github.com/Abcdatt666/MyPet/releases/latest/download/pet.exe",
     "mandatory":  false
