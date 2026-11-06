@@ -1,8 +1,8 @@
 {
-    "version":  "2.2.1",
+    "version":  "2.2.2",
     "release_date":  "2026-11-06",
-    "title":  "Desktop Pet v2.2.1 - Clean 16-bit JRPG Speech Bubble Fix",
-    "changelog":  "Sửa triệt để giao diện bong bóng hội thoại theo đúng chuẩn 16-bit Retro Pixel JRPG:\n- Loại bỏ hoàn toàn thanh huy hiệu [Name ▶ Role] thô cứng gây che khuất thân pet và bị xén viền ngoài mép form.\n- Chuẩn hóa bong bóng chat pixel art sắc nét: góc vát pixel 1px, viền chunky 2px dày dặn, đuôi bậc thang 3 tầng (stepped pixel tail) nối liền mạch từ pet ra ngoài.\n- Tăng padding đệm form lên 24px: triệt tiêu hoàn toàn lỗi bị cắt viền trái/phải/trên/dưới khi pet đứng sát mép màn hình.\n- Tự động duy trì khoảng cách 12px thoáng đãng giữa đầu/chân pet và bong bóng, không bao giờ đè lên thân pet.",
+    "title":  "Desktop Pet v2.2.2 - Mathematical Multi-Client Zero-Collision Spacing",
+    "changelog":  "Khắc phục triệt để va chạm bong bóng khi chat tin nhắn dài nhất giữa 2 máy:\n- Sửa công thức khoảng cách giữa pet chính và Pet 1: Trước đó dùng (slot - 1) khiến Pet 1 bị kéo sát về phía pet chính (chỉ cách 76px). Nay chuẩn hóa thành slot * spacing (cách đều 185px).\n- Giới hạn chiều rộng tối đa của bong bóng maxBoxW = 148px (thay vì 160px), tăng khoảng cách giữa 2 tâm pet lên 185px -\u003e Tạo khoảng hở an toàn tuyệt đối tối thiểu 37px giữa 2 mép bong bóng.\n- Dù cả 2 máy (hoặc cả phòng 5 pet) cùng gõ tin nhắn dài kịch khung cùng lúc thì 2 bong bóng cũng không bao giờ có thể chạm hay đè lên nhau.",
     "download_url":  "https://github.com/Abcdatt666/MyPet/releases/latest",
     "exe_url":  "https://github.com/Abcdatt666/MyPet/releases/latest/download/pet.exe",
     "mandatory":  false
