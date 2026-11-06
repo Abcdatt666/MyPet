@@ -1,5 +1,5 @@
 {
-  "version": "2.1.2",
+  "version": "2.1.3",
   "release_date": "2026-11-06",
   "title": "Bản cập nhật v2.1.2: Đồng bộ Pet Trực Tuyến & Cập nhật 1-Click",
   "changelog": "- Tính năng phòng trực tuyến cùng bạn bè\n- Tự động cập nhật 1-Click không cần cài đặt lại\n- Bảng Debug mạng thời gian thực (Ctrl+Shift+D)",
