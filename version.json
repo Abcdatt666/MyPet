@@ -1,8 +1,8 @@
 {
-    "version":  "2.1.8",
+    "version":  "2.1.9",
     "release_date":  "2026-11-06",
-    "title":  "Desktop Pet v2.1.8",
-    "changelog":  "Fix bubble overlap: Dynamic side placement and multi-directional speech bubble clearance",
+    "title":  "Desktop Pet v2.1.9",
+    "changelog":  "Ban nang cap giao dien toan dien va khac phuc triet de loi che khuat",
     "download_url":  "https://github.com/Abcdatt666/MyPet/releases/latest",
     "exe_url":  "https://github.com/Abcdatt666/MyPet/releases/latest/download/pet.exe",
     "mandatory":  false
